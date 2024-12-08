@@ -1,0 +1,1 @@
+En relación con el uso de Javascript avanzado vs TypeScript. De base recomendaría el uso de TypeScript ya que ayudaría a detectar error de tipo y asignación al momento de codificar y no al momento de ejecución. Si bien es cierto se necesita una pequeña curva de aprendizaje. El tiempo invertido vale la pena.
